@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Professional_Linkedin@2x](https://github.com/Will-l3x/Will-l3x/assets/22023721/43751512-7772-445c-a283-67b67afe8ecd)
 
 <!--
 **Will-l3x/Will-l3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
