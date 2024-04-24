@@ -5,12 +5,18 @@
 
 - 🔭 I’m currently working on few Top secret projects that involve designing new age solutions in the cloud for Companies still using legacy systems and a few projects that have to do with blockchain
     Here are a few live projects that i can share that you can go through.
-    https://www.auragroup.co.zw/
-    https://beta.africa/
-    https://chasi-maguwudze.com/
-    https://www.schweppes.co.zw/
+  
+    -https://www.auragroup.co.zw/
+    -https://www.healthnote.com/
+    -https://play.google.com/store/apps/details?id=com.dynatondata.lite&pli=1
+    -https://beta.africa/
+    -https://play.google.com/store/apps/details?id=com.inpeaceapp.cmetv.il&pcampaignid=web_share
+    -https://apps.apple.com/ca/app/plasees/id1598749583
+    -https://chasi-maguwudze.com/
+    -https://www.schweppes.co.zw/
+    -https://adexchange.dynatondata.com/login
 
-  Mobile Devlopment (Running an internal Testing for a zim tourism mobile)
+  Mobile Devlopment live (Running an internal Testing for a zim tourism mobile)
   Send your email to wilvanoszhira@gmail.com and i will hand over a taste.
 
 
@@ -21,7 +27,7 @@
 - 
 - 🤔 I’m looking for help with Becoming a master in cyber security
 - 💬 Ask me about anything that you might need always happy to land a hand and an ear
-- 📫 How to reach me: Phone 0782154206, wilvanoszhira@gmail.com
+- 📫 How to reach me: Phone 0782154206, wilvanoszhira@gmail.com you can check some of my repos on the pinned boards below.
 
 
   
