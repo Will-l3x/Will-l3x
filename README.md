@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Professional_Linkedin@2x](https://github.com/Will-l3x/Will-l3x/assets/22023721/43751512-7772-445c-a283-67b67afe8ecd)
 
-
+ 🔭 A recent ERP enthusiast, most of my recent projects have been ERP systems for companies, From healthcare services to Fiscal services as well. Recently done designing one for Gunhill medical         village and FRS. 
 
 - 🔭 I’m currently working on few Top secret projects that involve designing new age solutions in the cloud for Companies still using legacy systems and a few projects that have to do with blockchain
     Here are a few live projects that i can share that you can go through.
